@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 賢劫經
+#+DATE: 2015-08-30 20:07:16.855158
+#+PROPERTY: JUAN 0
