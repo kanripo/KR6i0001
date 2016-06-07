@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 425
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0001_T_001-0001a> 
 #+PROPERTY: JUAN 1
 ¶
@@ -268,7 +268,7 @@ No. 425¶
 法為所生母，以得堅住一切無為，專心定意。¶
 雖有所度為無所度，無縛無脫無相不相，¶
 所遵導化亦無眾好，建立佛土以得總持，¶
-邦諸覺所說清明，度魔境界戰鬪勇猛，¶
+[邱-丘+半]諸覺所說清明，度魔境界戰鬪勇猛，¶
 殺害眾塵刈除不善，志願淨光魔不能壞，所¶
 宣道慧而無窮盡，世莫能稱。
 

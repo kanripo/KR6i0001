@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 425
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0001_T_006-0042c> 
 #+PROPERTY: JUAN 6
 ¶
@@ -1523,7 +1523,7 @@
 　眉間光、¶
 　無邊際、
 　辯才王、
-　邦慧、¶
+　[邱-丘+半]慧、¶
 　由自在、
 　師子髮、
 　遊晃煜、¶
