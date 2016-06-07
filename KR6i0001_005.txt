@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 425
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0001_T_005-0034c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
@@ -283,7 +283,7 @@
 若合集智增益聖慧，常不損耗斯則其誼，是¶
 曰智慧；是為六。
 
-「何謂邦解度無極有六
+「何謂[邱-丘+半]解度無極有六
 <pb:KR6i0001_T_005-0037b>¶
 事？所行精勤不壞其身，是曰布施；以斷眾¶
 想悕望之業解脫而喜，是曰持戒；逮得法¶

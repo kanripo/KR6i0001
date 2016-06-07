@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 425
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0001_T_002-0011b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
@@ -136,7 +136,7 @@
 度無極；有辯才度無極；有無厭度無極；有¶
 六度無極；有眼耳鼻口身心度無極；有愍¶
 他勸助度無極；有愍已度無極；有法度無極；¶
-有宣度無極；有邦度無極；有勸樂度¶
+有宣度無極；有[邱-丘+半]度無極；有勸樂度¶
 無極；有三脫門度無極；有異行度無極；有¶
 解他度無極；有勤用意度無極；有十種力度
 <pb:KR6i0001_T_002-0012c>¶
